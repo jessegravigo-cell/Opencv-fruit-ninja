@@ -26,7 +26,7 @@ pip install opencv-python mediapipe numpy
 
 
 ### 3. directory
-put the hand_landmarker.task in a same folder with the app.py
+put the hand_landmarker.task in a same folder with the main.py
 
 ### how to play and troubleshoot
 🎮 How to Play
